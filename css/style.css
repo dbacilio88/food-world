@@ -195,7 +195,7 @@ a:focus {
 .custom_nav-container img {
   width: 140px;
   height: 50px;
- 
+
 }
 
 .custom_nav-container .navbar-nav {
@@ -220,7 +220,7 @@ a:focus {
   font-weight: bold;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  
+
 }
 
 .custom_nav-container .nav_search-btn {
@@ -358,6 +358,7 @@ a:focus {
 /*end header section*/
 /* slider section */
 .slider_section {
+  
   -webkit-box-flex: 1;
   -ms-flex: 1;
   flex: 1;
@@ -386,6 +387,7 @@ a:focus {
   color: #e69c00;
   position: unset;
   align-items: center;
+  display: block;
 }
 
 .slider_section .detail-box {
