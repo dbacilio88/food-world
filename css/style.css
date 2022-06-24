@@ -216,7 +216,7 @@ a:focus {
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link,
 .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  color: #020e20;
+  color: #e69c00;
   font-weight: bold;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
