@@ -496,8 +496,9 @@ a:focus {
 
 .offer_section .box .img-box img {
   width: 100%;
-  -webkit-transition: all .2s;
-  transition: all .2s;
+  height: 100%;
+  -webkit-transition: all .1s;
+  transition: all .1s;
 }
 
 .offer_section .box .detail-box h5 {
