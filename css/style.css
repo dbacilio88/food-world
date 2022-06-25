@@ -91,6 +91,7 @@ h2 {
 .heading_container p {
   margin-top: 10px;
   margin-bottom: 0;
+  text-align: justify;
 }
 
 .heading_container.heading_center {
@@ -728,6 +729,7 @@ a:focus {
 
 .about_section .detail-box p {
   margin-top: 15px;
+  text-align: justify;
 }
 
 .about_section .detail-box a {
